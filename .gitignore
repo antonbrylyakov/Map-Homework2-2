@@ -1,0 +1,7 @@
+/obj
+/bin
+/out
+/*.cbp
+/*.depend
+/.vs
+/CMakeSettings.json
